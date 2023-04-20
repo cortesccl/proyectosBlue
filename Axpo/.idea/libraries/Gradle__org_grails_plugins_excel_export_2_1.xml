@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: org.grails.plugins:excel-export:2.1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/grails/plugins/excel-export/2.1/excel-export-2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

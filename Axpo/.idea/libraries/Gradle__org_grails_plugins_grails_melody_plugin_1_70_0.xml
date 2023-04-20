@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: org.grails.plugins:grails-melody-plugin:1.70.0">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/grails/plugins/grails-melody-plugin/1.70.0/grails-melody-plugin-1.70.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Gradle : webpricing : webpricing.war">
+    <output-path>$PROJECT_DIR$/webpricing/build/libs</output-path>
+    <properties id="gradle-properties">
+      <options external-project-path="$PROJECT_DIR$/webpricing" />
+    </properties>
+    <root id="archive" name="webpricing.war">
+      <element id="artifact" artifact-name="Gradle : webpricing : webpricing.war (exploded)" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Gradle : calculation-engine : calculation-engine.war">
+    <output-path>$PROJECT_DIR$/calculation-engine/build/libs</output-path>
+    <properties id="gradle-properties">
+      <options external-project-path="$PROJECT_DIR$/calculation-engine" />
+    </properties>
+    <root id="archive" name="calculation-engine.war">
+      <element id="artifact" artifact-name="Gradle : calculation-engine : calculation-engine.war (exploded)" />
+    </root>
+  </artifact>
+</component>

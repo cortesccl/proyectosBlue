@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="calculation-engine_integrationTest" target="1.8" />
+      <module name="calculation-engine_main" target="1.8" />
+      <module name="calculation-engine_test" target="1.8" />
+      <module name="pricing-module_integrationTest" target="1.8" />
+      <module name="pricing-module_main" target="1.8" />
+      <module name="pricing-module_test" target="1.8" />
+      <module name="webpricing_integrationTest" target="1.8" />
+      <module name="webpricing_main" target="1.8" />
+      <module name="webpricing_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

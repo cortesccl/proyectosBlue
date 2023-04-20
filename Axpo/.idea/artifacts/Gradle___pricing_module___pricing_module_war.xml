@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Gradle : pricing-module : pricing-module.war">
+    <output-path>$PROJECT_DIR$/pricing-module/build/libs</output-path>
+    <properties id="gradle-properties">
+      <options external-project-path="$PROJECT_DIR$/pricing-module" />
+    </properties>
+    <root id="archive" name="pricing-module.war">
+      <element id="artifact" artifact-name="Gradle : pricing-module : pricing-module.war (exploded)" />
+    </root>
+  </artifact>
+</component>

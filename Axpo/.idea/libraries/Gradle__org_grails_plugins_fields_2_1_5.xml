@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: org.grails.plugins:fields:2.1.5">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/grails/plugins/fields/2.1.5/fields-2.1.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
