@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/calculation-engine.iml" filepath="$PROJECT_DIR$/.idea/modules/calculation-engine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/calculation-engine_integrationTest.iml" filepath="$PROJECT_DIR$/.idea/modules/calculation-engine_integrationTest.iml" group="calculation-engine" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/calculation-engine_main.iml" filepath="$PROJECT_DIR$/.idea/modules/calculation-engine_main.iml" group="calculation-engine" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/calculation-engine_test.iml" filepath="$PROJECT_DIR$/.idea/modules/calculation-engine_test.iml" group="calculation-engine" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pricing-module.iml" filepath="$PROJECT_DIR$/.idea/modules/pricing-module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pricing-module_integrationTest.iml" filepath="$PROJECT_DIR$/.idea/modules/pricing-module_integrationTest.iml" group="pricing-module" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pricing-module_main.iml" filepath="$PROJECT_DIR$/.idea/modules/pricing-module_main.iml" group="pricing-module" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pricing-module_test.iml" filepath="$PROJECT_DIR$/.idea/modules/pricing-module_test.iml" group="pricing-module" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/webpricing.iml" filepath="$PROJECT_DIR$/.idea/modules/webpricing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/webpricing_integrationTest.iml" filepath="$PROJECT_DIR$/.idea/modules/webpricing_integrationTest.iml" group="webpricing" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/webpricing_main.iml" filepath="$PROJECT_DIR$/.idea/modules/webpricing_main.iml" group="webpricing" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/webpricing_test.iml" filepath="$PROJECT_DIR$/.idea/modules/webpricing_test.iml" group="webpricing" />
+    </modules>
+  </component>
+</project>

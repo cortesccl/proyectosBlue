@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: net.bull.javamelody:javamelody-core:1.70.0">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/net/bull/javamelody/javamelody-core/1.70.0/javamelody-core-1.70.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

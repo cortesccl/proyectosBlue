@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="webpricing" external.linked.project.path="$MODULE_DIR$/../../../webpricing" external.root.project.path="$MODULE_DIR$/../../../webpricing" external.system.id="GRADLE" external.system.module.group="webpricing" external.system.module.version="5.2.50" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../webpricing">
+      <excludeFolder url="file://$MODULE_DIR$/../../../webpricing/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../webpricing/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

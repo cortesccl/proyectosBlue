@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jrobin:jrobin:1.5.9">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jrobin/jrobin/1.5.9/jrobin-1.5.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

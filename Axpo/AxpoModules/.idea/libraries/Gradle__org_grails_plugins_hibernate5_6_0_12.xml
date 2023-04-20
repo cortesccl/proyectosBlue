@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: org.grails.plugins:hibernate5:6.0.12">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/grails/plugins/hibernate5/6.0.12/hibernate5-6.0.12.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
